@@ -1,0 +1,8 @@
+prefix=/home/vishnu/catkin_ws/install
+
+Name: eyrc-task1
+Description: Description of eyrc-task1
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

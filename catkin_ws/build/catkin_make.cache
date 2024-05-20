@@ -1,0 +1,2 @@
+cv_basics:eyrc-task1:eyrc-task2:eyrc-task5:pkg_ros_basics:task5
+-DCATKIN_DEVEL_PREFIX=/home/vishnu/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/vishnu/catkin_ws/install -G Unix Makefiles

@@ -1,0 +1,8 @@
+prefix=/home/vishnu/catkin_ws/install
+
+Name: your_package_name
+Description: Description of your_package_name
+Version: 1.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: roscpp gazebo_ros std_msgs geometry_msgs message_runtime dynamic_reconfigure
